@@ -1,0 +1,37 @@
+
+
+#whitesands {
+    max-width: 30%;
+
+}
+
+.container {
+
+    background-color:ghostwhite;
+}
+
+.row {  ;
+    justify-content: space-between;
+
+}
+#wordsaboutme {
+    background-color: ghostwhite;
+    font-size: large;
+    float:right
+}
+#pic1 {
+    background-image:linear-gradient(to top left, rgb(88, 2, 2),blue);
+    float: left;
+    height:}
+#pic2 {
+    background-image:linear-gradient(to bottom right, rgb(88, 2, 2),blue);
+    float: left;
+    height: }
+.pageNumber
+/*move pagination to center of page*/
+{display:flex;
+    justify-content: center;
+    align-items:over
+     ;
+    
+    }
